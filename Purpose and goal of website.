@@ -1,0 +1,5 @@
+File storage website:
+3 main components:
+-Module for user login and authentication.
+-Module for database to authenticate users and keep track of which files belong to them.
+-Module for storage of files and only allowing access based on permissions from database module.
