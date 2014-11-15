@@ -1,0 +1,69 @@
+Software process activities:
+	Software specification, where customers and engineers define the software that is to be produced and the constraints on its operation.
+	Software development, where the software is designed and programmed.
+	Software validation, where the software is checked to ensure that it is what the customer requires.
+	Software evolution, where the software is modified to reflect changing customer and market requirements.
+	
+Agile method and scrum process?
+	
+What Software process model?
+
+	Reuse-oriented software engineering
+	The system is assembled from existing components. May be plan-driven or agile.
+
+Software specification
+	The process of establishing what services are required and the constraints on the system’s operation and development.
+	Requirements engineering process
+	Feasibility study
+•	Is it technically and financially feasible to build the system?
+	Requirements elicitation and analysis
+•	What do the system stakeholders require or expect from the system?
+	Requirements specification	
+•	Defining the requirements in detail
+	Requirements validation
+•	Checking the validity of the requirements
+ 
+Software products
+	Customized products
+	Software that is commissioned by a specific customer to meet their own needs. 
+	Examples – embedded control systems, air traffic control software, traffic monitoring systems.
+Product specification
+	Customized products
+	The specification of what the software should do is owned by the customer for the software and they make decisions on software changes that are required.
+
+Application type:
+	Interactive transaction-based applications 
+Applications that execute on a remote computer and are accessed by users from their own PCs or terminals. These include web applications such as e-commerce applications.
+Web software engineering
+	Software reuse is the dominant approach for constructing web-based systems. 	
+	When building these systems, you think about how you can assemble them from pre-existing software components and systems.
+	Web-based systems should be developed and delivered incrementally.
+	It is now generally recognized that it is impractical to specify all the requirements for such systems in advance. 
+	User interfaces are constrained by the capabilities of web browsers. 
+	Technologies such as AJAX allow rich interfaces to be created within a web browser but are still difficult to use. Web forms with local scripting are more commonly used. 
+	Web-based systems are complex distributed systems but the fundamental principles of software engineering discussed previously are as applicable to them as they are to any other types of system.
+
+Design activities
+	Architectural design, where you identify the overall structure of the system, the principal components (sometimes called sub-systems or modules), their relationships and how they are distributed.
+	Interface design, where you define the interfaces between system components. 
+	Component design, where you take each system component and design how it will operate. 
+	Database design, where you design the system data structures and how these are to be represented in a database. 
+Software validation
+	Verification and validation (V & V) is intended to show that a system conforms to its specification and meets the requirements of the system customer.
+	Involves checking and review processes and system testing.
+	System testing involves executing the system with test cases that are derived from the specification of the real data to be processed by the system.
+	Testing is the most commonly used V & V activity.
+ 
+Testing stages
+	Development or component testing
+	Individual components are tested independently; 
+	Components may be functions or objects or coherent groupings of these entities.
+	System testing
+	Testing of the system as a whole. Testing of emergent properties is particularly important.
+	Acceptance testing
+	Testing with customer data to check that the system meets the customer’s needs.
+Software evolution
+	Software is inherently flexible and can change. 
+	As requirements change through changing business circumstances, the software that supports the business must also evolve and change.
+	Although there has been a demarcation between development and evolution (maintenance) this is increasingly irrelevant as fewer and fewer systems are completely new.
+ 
